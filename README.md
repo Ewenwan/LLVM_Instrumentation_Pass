@@ -8,7 +8,13 @@ To use this pass you have to have installed a rather recent version of LLVM (`3.
 For MacOS help you can follow this answer on [Stackoverflow](http://stackoverflow.com/questions/28203937/installing-llvm-libraries-along-with-xcode).
 Additionally you need a recent version of `cmake`.
 
-Furthermore you have to have [zlog](https://github.com/HardySimpson/zlog) installed.
+Furthermore you have to have [zlog](https://github.com/Ewenwan/zlog/blob/master/README.md) installed.
+
+
+# 依赖于 zlog
+
+zlog是一个高可靠性、高性能、线程安全、灵活、概念清晰的纯C日志函数库。
+
 
 
 # Usage
